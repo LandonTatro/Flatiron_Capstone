@@ -6,8 +6,8 @@ Authors: Dima Taher, Leo Muntaner, Landon Tatro, Morgan Pelletier
 
 Notebooks Folder
 
-- For a detailed overview of our complete analysis, please reference the [final notebook](Film_Factors_And_Association_With_Profit.ipynb). 
-- To review our archived files, including exploratory data analysis files and individual analysis files, access the [archived files folder](Archived_Notebooks).
+- For a detailed overview of our complete analysis, please reference the [final notebook](notebooks/Film_Factors_And_Association_With_Profit.ipynb). 
+- To review our archived files, including exploratory data analysis files and individual analysis files, access the [archived files folder](notebooks/Archived_Notebooks).
 
 Data Folder
 
@@ -18,7 +18,7 @@ Data Folder
 We conducted a series of analyses to determine associations between various facets of films and generated profit/revenue. Our results lead to the following suggestions for Computing Vision:
 
 1. Aim to hire more experienced directors for profit security. 
-2. Aim to release films on Fridays in order to maximize box office revenue
+2. Aim to release films on Fridays in order to maximize box office revenue.
 3. While we do not suggest using genre as a method of profit security, we do suggest additional research into potential confounding factors that may target higher median profit in animation, adventure, science fiction, action, and fantasy movies. 
 
 The presentation for this project can be found [here.](Presentation.pdf)
@@ -40,16 +40,16 @@ The film industry is a creative and diverse market with several avenues to succe
 The range of our analyses required utilization of several [datasets.](data) For each area of analysis, we used:
 
 Directors:
- - Movie Info dataset, which is from Rotten Tomatoes which included the Director column required for this analysis with 1,560 rows.
- - Movie Budgets dataset from The-Numbers.com which included the movie titles, production budget, and worldwide gross revenue which we used to calculate the profit which is our main measure of success in the project, the columns had 5,782 rows.
+ - Movie Info dataset, which is from [Rotten Tomatoes](https://www.rottentomatoes.com/) which included the Director column required for this analysis with 1,560 rows.
+ - Movie Budgets dataset from [the-numbers.com](https://www.the-numbers.com/) which included the movie titles, production budget, and worldwide gross revenue which we used to calculate the profit which is our main measure of success in the project, the columns had 5,782 rows.
 
 Release Day:
-- Used the rt.movie_info.tsv dataset which included the day of release and box office revenue column required for this analysis with 1,560 entries.
+- Used the Rotten Tomatoes rt.movie_info.tsv dataset which included the day of release and box office revenue column required for this analysis with 1,560 entries.
 
 Genres:
 - Movie budgets dataset from the-numbers.com including movie titles, production budget, and worldwide gross revenue with 5,782 rows.
-- TheMovieDB dataset including movie titles and genres with 26,517 rows.
-- IMDB database: movie_basics table, which contains movie and genre information for approximately 140,000 entries.
+- [TheMovieDB](https://www.themoviedb.org/?language=en-US) dataset including movie titles and genres with 26,517 rows.
+- [IMDB](https://www.imdb.com/) database: movie_basics table, which contains movie and genre information for approximately 140,000 entries.
 
 
 # Methods 
