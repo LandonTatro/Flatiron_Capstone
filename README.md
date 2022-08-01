@@ -6,8 +6,8 @@ Authors: Dima Taher, Leo Muntaner, Landon Tatro, Morgan Pelletier
 
 Notebooks Folder
 
-- For a detailed overview of our complete analysis, please reference the final notebook.
-- To review our archived files, including exploratory data analysis files and individual analysis files, access the archived files folder.
+- For a detailed overview of our complete analysis, please reference the [final notebook](Film_Factors_And_Association_With_Profit.ipynb). 
+- To review our archived files, including exploratory data analysis files and individual analysis files, access the [archived files folder](Archived_Notebooks).
 
 Data Folder
 
@@ -21,6 +21,7 @@ We conducted a series of analyses to determine associations between various face
 2. Aim to release films on Fridays in order to maximize box office revenue
 3. While we do not suggest using genre as a method of profit security, we do suggest additional research into potential confounding factors that may target higher median profit in animation, adventure, science fiction, action, and fantasy movies. 
 
+The presentation for this project can be found [here.](Presentation.pdf)
 
 # Business Understanding
 
@@ -36,7 +37,7 @@ The film industry is a creative and diverse market with several avenues to succe
 
 ## Data Sources, Descriptions, Relevant Visualizations
 
-The range of our analyses required utilization of several datasets. For each area of analysis, we used:
+The range of our analyses required utilization of several [datasets.](data) For each area of analysis, we used:
 
 Directors:
  - Movie Info dataset, which is from Rotten Tomatoes which included the Director column required for this analysis with 1,560 rows.
@@ -57,7 +58,7 @@ Genres:
 
 Language: Python 3.1.1
 
-Major Packages and Version Numbers can be found [here](requirements.txt)
+Major Packages and Version Numbers can be found [here.](requirements.txt)
     
 ## Data Science and Statistical Methods
 
