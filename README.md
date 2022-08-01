@@ -43,6 +43,7 @@ Directors:
  - Movie Budgets dataset from The-Numbers.com which included the movie titles, production budget, and worldwide gross revenue which we used to calculate the profit which is our main measure of success in the project, the columns had 5,782 rows.
 
 Release Day:
+- Used the rt.movie_info.tsv dataset which included the day of release and box office revenue column required for this analysis with 1,560 entries.
 
 Genres:
 - Movie budgets dataset from the-numbers.com including movie titles, production budget, and worldwide gross revenue with 5,782 rows.
