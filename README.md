@@ -1,4 +1,4 @@
-# An Analysis of Film Factors for Association with Profitability
+# An Analysis of Film Factors and Their Association with Profitability
 Authors: Dima Taher, Leo Muntaner, Landon Tatro, Morgan Pelletier 
 (Deloitte Strategy and Analytics - Orlando)
 
